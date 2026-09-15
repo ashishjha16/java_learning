@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class demo {
   public static void main(String[] args) {
-  int[] ashish = new int[5];
+  //int[] ashish = new int[5];
   Scanner s = new Scanner (System.in);
   System.out.println("enter your name: ");
   String name = s.nextLine(); 

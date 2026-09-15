@@ -12,8 +12,9 @@ public class example {
         System.out.println("enter your marks in Marathi : ");
         int d = s.nextInt();
         int ashish = a+b+c+d ;
-        System.out.println("your total marks of all subject is :" + ashish +"out of 400" );
+        System.out.println("your total marks of all subject is :" + ashish + "out of 400" );
         double percentage = (ashish/400.0)*100;
         System.out.println("your total percentage are :" + percentage );
      }
     }
+    // here we have taken input from user and find percentage 

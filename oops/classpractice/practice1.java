@@ -1,10 +1,11 @@
-package classpractice.java;
+package classpractice;
 class employeee{
     int id;
     String name;
     int contact;
     int age;
-    string gender;
+    String gender;
+    
 }
 public class practice1 {
     public static void main(){

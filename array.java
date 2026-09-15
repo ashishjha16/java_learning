@@ -54,8 +54,9 @@ public class array {
                 arr[a1] = s.nextInt();
              System.out.println(Arrays.toString(arr));
             }
-
-
+// here we have taken input from user to determine the size of the array and then we have
+//  taken input from user to fill the array with elements
+// and we have use here for loop to fill the array with elements and print the array
 
 
     } 
