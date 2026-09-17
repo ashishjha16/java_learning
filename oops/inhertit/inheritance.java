@@ -1,3 +1,4 @@
+package inhertit;
 class A {
     //parent class
     int a ;
